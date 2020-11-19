@@ -1,5 +1,8 @@
 body{
     background-color: yellow;
+    display: flex;
+    flex-wrap: initial;
+    
 }
 
 h1{
